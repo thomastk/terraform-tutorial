@@ -2,7 +2,7 @@ Terraform Tutorial that describes how an Amazon Linux VM is spun up on AWS and W
 
 Configuration
 
-1. In the env, set these AWS credentials that point to your AWS account that is used for this tutorial:
+- In the env, set these AWS credentials that point to your AWS account that is used for this tutorial:
 * AWS_ACCESS_KEY_ID
 * AWS_SECRET_ACCESS_KEY
 
