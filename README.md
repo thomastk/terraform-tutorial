@@ -12,4 +12,9 @@ public_key_path
 
 Also, look at the other variables set in variables.tf so they are compatible with your environment and AWS account.
 
-3. In provisioners/install-wordpress-amzn-linux.sh, following configs are hardcoded. If needed update those but not required if you are OK with default settings.
+3. In provisioners/install-wordpress-amzn-linux.sh, following configs are hardcoded: 
+MySQL database name
+database user name
+database user password
+
+If needed update those but not required if you are OK with default settings.
